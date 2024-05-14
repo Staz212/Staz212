@@ -23,5 +23,3 @@
 - 🔭 I’m currently working on  **Quora**
 - 🌱 I’m currently learning  **Discord.js**
 
-- [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001614.c50c3903b522419ba418a38b29951dd6.1524)](https://github.com/rayriffy/apple-music-github-profile)
-
