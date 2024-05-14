@@ -1,7 +1,6 @@
 ### Hi ya 👋, I'm Staz!
 
-<font
-face="times" size="6" color="#FF0000"><marquee behavior="scroll" scrollamount="15" onmouseover="this.stop()" onmouseout="this.start()">Hey there i'm Staz</marquee></font>
+<marquee behavior="scroll" scrollamount="15" onmouseover="this.stop()" onmouseout="this.start()">Hey there i'm Staz</marquee>
 
 
 <br/>
