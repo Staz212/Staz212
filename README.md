@@ -1,5 +1,9 @@
 ### Hi ya 👋, I'm Staz!
 
+<font
+face="times" size="6" color="#FF0000"><marquee behavior="scroll" scrollamount="15" onmouseover="this.stop()" onmouseout="this.start()">Hey there i'm Staz</marquee></font>
+
+
 <br/>
 <a href="https://discord.com/users/1238776033021526097" target="_blank" >
     <img align ="left" alt="Staz Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
