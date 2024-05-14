@@ -1,6 +1,4 @@
-### Hi ya 👋, I'm Staz!
-
-<marquee behavior="scroll" scrollamount="15" onmouseover="this.stop()" onmouseout="this.start()">Hey there i'm Staz</marquee>
+### Hi there 👋, I'm Staz!
 
 
 <br/>
