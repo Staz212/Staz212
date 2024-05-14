@@ -20,6 +20,6 @@
 
  **Information:**
 
-- 🔭 I’m currently working on  **Quora**
-- 🌱 I’m currently learning  **Discord.js**
+- 🔭 I’m currently working on  **Jovie**
+- 🌱 I’m currently learning  **Node.js**
 
