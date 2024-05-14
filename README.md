@@ -12,9 +12,9 @@
 
 <br/>
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/1238776033021526097.png) -->
+<!-- ![Discord](https://discord.c99.nl/widget/theme-1/1238776033021526097.png) -->
 <a href="https://discord.com/users/1238776033021526097">
-<img src="https://discord.c99.nl/widget/theme-3/1238776033021526097.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-1/1238776033021526097.png" alt="Discord"/>
 </a>
 
 
